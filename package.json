@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer_scrapping_exc",
+  "version": "1.0.0",
+  "description": "excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "puppeteer",
+    "JS",
+    "node",
+    "chromium"
+  ],
+  "author": "FALSAL",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^2.4.2",
+    "pg": "^8.8.0",
+    "puppeteer": "^19.5.2"
+  }
+}
