@@ -14,7 +14,7 @@ pizzaMan.on('order', (size, topping)=>{
     drinkMachine.serveDrinks(size);
 })
 
-CHANGES MADE INSIDE THE MAIN BRANCH
+// CHANGES MADE INSIDE THE MAIN BRANCH
 
 // when you order pizzaMan.order() passing 2 params with it you call this.order(size, topping) in the class
 // and inside that method you are emitting an event called "order"
